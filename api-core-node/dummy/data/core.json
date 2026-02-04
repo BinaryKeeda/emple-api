@@ -1,0 +1,194 @@
+[
+  {
+    "question": "In a DBMS, which normal form deals with transitive dependencies?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "2NF", "isCorrect": false },
+      { "text": "3NF", "isCorrect": true },
+      { "text": "BCNF", "isCorrect": false },
+      { "text": "4NF", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which scheduling algorithm may cause starvation in OS?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "Round Robin", "isCorrect": false },
+      { "text": "Shortest Job First (SJF)", "isCorrect": true },
+      { "text": "FCFS", "isCorrect": false },
+      { "text": "Priority (without aging)", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "In OOPS, what principle is demonstrated by using an abstract class with abstract and concrete methods?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "Polymorphism", "isCorrect": false },
+      { "text": "Inheritance", "isCorrect": false },
+      { "text": "Abstraction", "isCorrect": true },
+      { "text": "Encapsulation", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "In TCP, what does three-way handshake ensure?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "Connection termination", "isCorrect": false },
+      { "text": "Reliable data transfer", "isCorrect": true },
+      { "text": "Congestion control", "isCorrect": false },
+      { "text": "Multiplexing", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which DBMS index type is best for range queries?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "Hash index", "isCorrect": false },
+      { "text": "B‑Tree index", "isCorrect": true },
+      { "text": "Bitmap index", "isCorrect": false },
+      { "text": "Clustered index", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which method of interprocess communication is fastest on the same machine?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "Pipes", "isCorrect": false },
+      { "text": "Message queues", "isCorrect": false },
+      { "text": "Shared memory", "isCorrect": true },
+      { "text": "Sockets", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "In OOPS, what kind of polymorphism is achieved at compile-time?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "Method overloading", "isCorrect": true },
+      { "text": "Method overriding", "isCorrect": false },
+      { "text": "Interface polymorphism", "isCorrect": false },
+      { "text": "Dynamic binding", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which layer of OSI is responsible for end-to-end delivery?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "Network layer", "isCorrect": false },
+      { "text": "Data Link layer", "isCorrect": false },
+      { "text": "Transport layer", "isCorrect": true },
+      { "text": "Session layer", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the use of 'dirty read' in DBMS?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "Reading uncommitted data", "isCorrect": true },
+      { "text": "Reading committed data only", "isCorrect": false },
+      { "text": "Allows phantom reads", "isCorrect": false },
+      { "text": "Prevents dirty writes", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which algorithm prevents deadlock by resource ordering?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "Banker’s algorithm", "isCorrect": false },
+      { "text": "Detection and recovery", "isCorrect": false },
+      { "text": "Resource ordering", "isCorrect": true },
+      { "text": "Wait-die scheme", "isCorrect": false }
+    ]
+  }, 
+  {
+    "question": "In DBMS, what does the term 'phantom read' refer to?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "Reading uncommitted data", "isCorrect": false },
+      { "text": "Same query returning different rows in the same transaction", "isCorrect": true },
+      { "text": "Locking data items", "isCorrect": false },
+      { "text": "Deadlock due to multiple writes", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which page replacement algorithm may suffer from Belady’s anomaly?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "FIFO", "isCorrect": true },
+      { "text": "LRU", "isCorrect": false },
+      { "text": "Optimal", "isCorrect": false },
+      { "text": "Clock", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which of the following OOP principles is violated if private members are directly accessed outside the class?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "Abstraction", "isCorrect": false },
+      { "text": "Encapsulation", "isCorrect": true },
+      { "text": "Polymorphism", "isCorrect": false },
+      { "text": "Inheritance", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which protocol does ARP operate over in the OSI model?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "Data Link layer", "isCorrect": true },
+      { "text": "Network layer", "isCorrect": false },
+      { "text": "Transport layer", "isCorrect": false },
+      { "text": "Application layer", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "In DBMS, which join returns all records when there is a match in either left or right table?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "LEFT JOIN", "isCorrect": false },
+      { "text": "RIGHT JOIN", "isCorrect": false },
+      { "text": "FULL OUTER JOIN", "isCorrect": true },
+      { "text": "INNER JOIN", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which of the following algorithms is used for deadlock avoidance in OS?",
+    "marks": 2,
+    "negative": 0.5,
+    "category": "MCQ",
+    "options": [
+      { "text": "Banker’s algorithm", "isCorrect": true },
+      { "text": "FIFO", "isCorrect": false },
+      { "text": "Round Robin", "isCorrect": false },
+      { "text": "Shortest Remaining Time First", "isCorrect": false }
+    ]
+  }
+]
