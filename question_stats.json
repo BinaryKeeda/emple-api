@@ -1,0 +1,722 @@
+[
+  {
+    "_id": "686ad9ee8a744413610bb753",
+    "seenBy": 99,
+    "questionText": "A can do a job in 20 days and B in 30 days. Together they can finish it in?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbe1",
+    "seenBy": 96,
+    "questionText": "Which protocol is used by email clients to retrieve messages from a mail server?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbc3",
+    "seenBy": 96,
+    "questionText": "Which of the following is NOT a necessary condition for deadlock?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc40",
+    "seenBy": 95,
+    "questionText": "Which of the following is true about virtual memory?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc0e",
+    "seenBy": 95,
+    "questionText": "Which OOP feature promotes code reusability?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfb64",
+    "seenBy": 94,
+    "questionText": "In OOPS, what principle is demonstrated by using an abstract class with abstract and concrete methods?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7f3",
+    "seenBy": 93,
+    "questionText": "If the perimeter of a rectangle is 60 cm and the length is 20 cm, what is its breadth?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7c6",
+    "seenBy": 92,
+    "questionText": "The perimeter of a square is 40 cm. What is its area?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb820",
+    "seenBy": 92,
+    "questionText": "A man buys an article for ₹1200 and sells it at a loss of 15%. What is the selling price?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb843",
+    "seenBy": 92,
+    "questionText": "A number when divided by 5 leaves remainder 3. What is the remainder when the square of the number is divided by 5?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7e9",
+    "seenBy": 91,
+    "questionText": "A shopkeeper sells an item at ₹600 with 20% profit. What was the cost price?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb811",
+    "seenBy": 91,
+    "questionText": "If 3 men can do a work in 12 days, how many men are needed to complete it in 4 days?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb730",
+    "seenBy": 91,
+    "questionText": "What is the value of (a+b)^2 if a = 2, b = 3?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc45",
+    "seenBy": 90,
+    "questionText": "Which of the following is used to describe the behavior of objects in OOP?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7d5",
+    "seenBy": 90,
+    "questionText": "If 8x = 64, then x equals?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc63",
+    "seenBy": 89,
+    "questionText": "Which of the following TCP/IP layer protocols ensures reliable delivery?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb75d",
+    "seenBy": 87,
+    "questionText": "If selling price is ₹500 and profit is 25%, what is the cost price?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc1d",
+    "seenBy": 87,
+    "questionText": "Which type of operating system is used in mobile phones?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7a3",
+    "seenBy": 87,
+    "questionText": "What is the number of diagonals in a hexagon?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbd7",
+    "seenBy": 87,
+    "questionText": "Which memory allocation strategy suffers from external fragmentation?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7c1",
+    "seenBy": 87,
+    "questionText": "What is the cube root of 729?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbb4",
+    "seenBy": 87,
+    "questionText": "Which SQL keyword is used to remove duplicate rows from the result set?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfb73",
+    "seenBy": 87,
+    "questionText": "Which method of interprocess communication is fastest on the same machine?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfb82",
+    "seenBy": 87,
+    "questionText": "What is the use of 'dirty read' in DBMS?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc68",
+    "seenBy": 86,
+    "questionText": "Which SQL function returns the number of records in a table?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7bc",
+    "seenBy": 86,
+    "questionText": "If the cost price is ₹640 and the profit is 20%, what is the selling price?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb762",
+    "seenBy": 86,
+    "questionText": "If 5x - 3 = 2x + 9, what is x?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb825",
+    "seenBy": 85,
+    "questionText": "In a 60 litre mixture of milk and water, the ratio of milk to water is 2:1. How much water must be added to make the ratio 1:1?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc27",
+    "seenBy": 85,
+    "questionText": "Which of the following is not part of the five classic components of a computer system?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb776",
+    "seenBy": 85,
+    "questionText": "A sum triples itself in 8 years at simple interest. Find the rate of interest.",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbff",
+    "seenBy": 85,
+    "questionText": "Which layer in the OSI model handles reliable data transfer and flow control?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc36",
+    "seenBy": 85,
+    "questionText": "Which device connects different networks and directs data packets?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfb78",
+    "seenBy": 85,
+    "questionText": "In OOPS, what kind of polymorphism is achieved at compile-time?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbd2",
+    "seenBy": 85,
+    "questionText": "In DBMS, which of the following operations can violate referential integrity?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7a8",
+    "seenBy": 84,
+    "questionText": "Solve: √(49) + √(64)",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7fd",
+    "seenBy": 84,
+    "questionText": "If a man walks at 5 km/hr, he is late by 10 minutes. If he walks at 6 km/hr, he is late by 5 minutes. Find the distance.",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc4a",
+    "seenBy": 83,
+    "questionText": "Which protocol does a web browser use to request a web page?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb83e",
+    "seenBy": 83,
+    "questionText": "Which of the following numbers is divisible by both 3 and 4?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb726",
+    "seenBy": 82,
+    "questionText": "If 3x + 5 = 20, what is x?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc13",
+    "seenBy": 82,
+    "questionText": "Which of the following protocols is connectionless?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb834",
+    "seenBy": 82,
+    "questionText": "The mean of 5, 10, 15, 20 and x is 20. What is x?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbbe",
+    "seenBy": 82,
+    "questionText": "Which of the following is used to enforce referential integrity in DBMS?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc6d",
+    "seenBy": 82,
+    "questionText": "Which scheduling algorithm gives the minimum average waiting time for a set of processes?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbcd",
+    "seenBy": 81,
+    "questionText": "Which device operates at the Data Link layer of the OSI model?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfb96",
+    "seenBy": 81,
+    "questionText": "Which of the following OOP principles is violated if private members are directly accessed outside the class?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbaa",
+    "seenBy": 81,
+    "questionText": "Which OOP concept enables method overriding?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfb6e",
+    "seenBy": 81,
+    "questionText": "Which DBMS index type is best for range queries?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbe6",
+    "seenBy": 81,
+    "questionText": "In SQL, which command is used to remove a table and all its data permanently?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb79e",
+    "seenBy": 81,
+    "questionText": "If a:b = 2:3 and b:c = 4:5, what is a:c?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc18",
+    "seenBy": 81,
+    "questionText": "Which constraint in DBMS ensures that all values in a column are different?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb758",
+    "seenBy": 81,
+    "questionText": "Find the LCM of 24 and 36",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7e4",
+    "seenBy": 81,
+    "questionText": "If the radius of a cylinder is doubled, the volume becomes how many times larger?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfb87",
+    "seenBy": 81,
+    "questionText": "Which algorithm prevents deadlock by resource ordering?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb799",
+    "seenBy": 80,
+    "questionText": "If sin θ = 1/2, then θ is?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc5e",
+    "seenBy": 80,
+    "questionText": "Which principle of OOPS binds data and methods into a single unit?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc31",
+    "seenBy": 80,
+    "questionText": "Which addressing mode is used in the instruction: `ADD R1, R2`?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb780",
+    "seenBy": 79,
+    "questionText": "Area of a circle with radius 7 cm is?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfb69",
+    "seenBy": 79,
+    "questionText": "In TCP, what does three-way handshake ensure?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbeb",
+    "seenBy": 79,
+    "questionText": "Which of the following is a non-preemptive scheduling algorithm?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfb8c",
+    "seenBy": 79,
+    "questionText": "In DBMS, what does the term 'phantom read' refer to?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7b2",
+    "seenBy": 79,
+    "questionText": "If a rectangle has length 12 cm and breadth 5 cm, what is its area?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb771",
+    "seenBy": 79,
+    "questionText": "In a class, 60% are boys. If total students are 80, how many are girls?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbf5",
+    "seenBy": 79,
+    "questionText": "Which of the following is responsible for allocating the CPU to a process?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb744",
+    "seenBy": 78,
+    "questionText": "The average age of 5 members is 20. If one leaves and the new average is 19, what is the age of the one who left?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb81b",
+    "seenBy": 78,
+    "questionText": "What is the smallest prime number greater than 100?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc22",
+    "seenBy": 78,
+    "questionText": "In SQL, which clause is used to group rows that have the same values in specified columns?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbc8",
+    "seenBy": 78,
+    "questionText": "Which OOPS concept allows different classes to be treated as instances of the same class through a common interface?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7b7",
+    "seenBy": 78,
+    "questionText": "What is the sum of first 20 natural numbers?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb73f",
+    "seenBy": 78,
+    "questionText": "If 2A = 3B and B = 4C, then A : C is?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7ee",
+    "seenBy": 78,
+    "questionText": "If a car’s value depreciates by 10% every year, what will be its value after 2 years if its present value is ₹50,000?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7cb",
+    "seenBy": 77,
+    "questionText": "If x^2 = 49, what is the value of x?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc04",
+    "seenBy": 77,
+    "questionText": "Which normal form removes multivalued dependencies?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb74e",
+    "seenBy": 77,
+    "questionText": "If 12 men can do a work in 15 days, how many days will 10 men take?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfba5",
+    "seenBy": 77,
+    "questionText": "Which of the following algorithms is used for deadlock avoidance in OS?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb76c",
+    "seenBy": 77,
+    "questionText": "What is the probability of getting a 3 when a die is rolled?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7d0",
+    "seenBy": 76,
+    "questionText": "What is the sum of angles in a triangle?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb78a",
+    "seenBy": 76,
+    "questionText": "The speed of a boat in still water is 10 km/hr, and current is 2 km/hr. What is its effective speed downstream?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb80c",
+    "seenBy": 76,
+    "questionText": "What is the HCF of 60 and 48?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc2c",
+    "seenBy": 76,
+    "questionText": "Which of the following best describes polymorphism in OOP?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb807",
+    "seenBy": 76,
+    "questionText": "If 6x – 4 = 5x + 3, then x = ?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb73a",
+    "seenBy": 76,
+    "questionText": "What is 45% of 800?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb71c",
+    "seenBy": 75,
+    "questionText": "What is the next number in the sequence: 2, 6, 12, 20, ?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb77b",
+    "seenBy": 75,
+    "questionText": "If A is 25% more than B, then B is how much less than A?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfb9b",
+    "seenBy": 75,
+    "questionText": "Which protocol does ARP operate over in the OSI model?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb802",
+    "seenBy": 75,
+    "questionText": "The average of 8 numbers is 15. If one number is 22, what is the average of the remaining 7 numbers?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb767",
+    "seenBy": 75,
+    "questionText": "Simplify: (3/4) + (2/5)",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb721",
+    "seenBy": 75,
+    "questionText": "A train 150m long is running at 54 km/h. How much time will it take to cross a pole?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7f8",
+    "seenBy": 75,
+    "questionText": "Which number is a perfect square: 169, 195, 221, 299?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb785",
+    "seenBy": 75,
+    "questionText": "The difference of squares of 12 and 5 is?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc09",
+    "seenBy": 75,
+    "questionText": "Which of the following is used for mutual exclusion in critical sections?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb72b",
+    "seenBy": 74,
+    "questionText": "What is the average of first 10 natural numbers?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfb7d",
+    "seenBy": 74,
+    "questionText": "Which layer of OSI is responsible for end-to-end delivery?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfb91",
+    "seenBy": 74,
+    "questionText": "Which page replacement algorithm may suffer from Belady’s anomaly?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc81",
+    "seenBy": 74,
+    "questionText": "Which of the following can lead to a race condition in OS?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc59",
+    "seenBy": 74,
+    "questionText": "Which of the following is a page replacement policy?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb82f",
+    "seenBy": 74,
+    "questionText": "What is the number of sides in a regular polygon whose interior angle is 120°?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb78f",
+    "seenBy": 74,
+    "questionText": "A car travels 120 km in 3 hours. What is the speed?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc72",
+    "seenBy": 74,
+    "questionText": "Which of the following is not a type of inheritance in OOP?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7df",
+    "seenBy": 73,
+    "questionText": "If A:B = 3:4 and B:C = 2:5, then A:C is?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbdc",
+    "seenBy": 73,
+    "questionText": "Which OOPS principle allows a subclass to provide a specific implementation of a method already defined in its superclass?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfb5f",
+    "seenBy": 73,
+    "questionText": "Which scheduling algorithm may cause starvation in OS?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfb5a",
+    "seenBy": 73,
+    "questionText": "In a DBMS, which normal form deals with transitive dependencies?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc54",
+    "seenBy": 72,
+    "questionText": "Which of the following operations is not allowed in a relational algebra projection?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb794",
+    "seenBy": 72,
+    "questionText": "A can do a job in 12 days, B in 16 days. Working together, in how many days will they finish?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb839",
+    "seenBy": 71,
+    "questionText": "If the marked price of an item is ₹200 and the shopkeeper gives a discount of 10%, what is the selling price?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc3b",
+    "seenBy": 71,
+    "questionText": "Which isolation level prevents dirty reads but allows non-repeatable reads in DBMS?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbfa",
+    "seenBy": 71,
+    "questionText": "Which of the following is not a feature of object-oriented programming?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbaf",
+    "seenBy": 70,
+    "questionText": "Which protocol provides reliable communication using sequence numbers and acknowledgments?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbf0",
+    "seenBy": 70,
+    "questionText": "Which type of join in SQL returns only matching rows from both tables?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc77",
+    "seenBy": 70,
+    "questionText": "Which protocol is used to find the MAC address from an IP address?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb816",
+    "seenBy": 69,
+    "questionText": "The difference between compound and simple interest on ₹2500 for 2 years at 10% per annum is?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb735",
+    "seenBy": 69,
+    "questionText": "Find the odd one out: 3, 5, 11, 14, 17",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb749",
+    "seenBy": 69,
+    "questionText": "What is the compound interest on ₹1000 at 10% for 2 years compounded annually?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb82a",
+    "seenBy": 69,
+    "questionText": "A person can row 12 km downstream in 3 hours and upstream in 4 hours. What is the speed of the stream?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7da",
+    "seenBy": 68,
+    "questionText": "What is the median of the dataset: 3, 7, 9, 10, 12?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfba0",
+    "seenBy": 67,
+    "questionText": "In DBMS, which join returns all records when there is a match in either left or right table?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfbb9",
+    "seenBy": 67,
+    "questionText": "Which OS concept allows a process to be removed temporarily from CPU and resumed later?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc4f",
+    "seenBy": 64,
+    "questionText": "Which SQL keyword is used to extract only those records that fulfill a specified condition?",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ad9ee8a744413610bb7ad",
+    "seenBy": 63,
+    "questionText": "Convert binary 1010 to decimal.",
+    "correctAnswer": null
+  },
+  {
+    "_id": "686ada593133ebe6e6edfc7c",
+    "seenBy": 60,
+    "questionText": "Which of the following is a valid SQL aggregate function?",
+    "correctAnswer": null
+  }
+]

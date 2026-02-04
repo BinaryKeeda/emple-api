@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Razorpay Payment</title>
+
+  <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .container {
+      background: #fff;
+      padding: 30px;
+      width: 350px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      text-align: center;
+    }
+    input {
+      width: 100%;
+      padding: 10px;
+      margin-top: 15px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      font-size: 16px;
+    }
+    button {
+      background: #3399cc;
+      border: none;
+      padding: 12px 20px;
+      border-radius: 8px;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+      margin-top: 20px;
+      width: 100%;
+    }
+    button:hover {
+      background: #2383ad;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h2>Make a Payment</h2>
+
+    <input id="amountInput" type="number" placeholder="Enter amount (₹)" />
+
+    <button id="payBtn">Pay Now</button>
+  </div>
+
+  <script>
+    document.getElementById("payBtn").onclick = async function () {
+      let amount = document.getElementById("amountInput").value;
+
+      if (!amount || amount <= 0) {
+        alert("Enter a valid amount.");
+        return;
+      }
+
+      // 1. Create new order from backend
+      const response = await fetch("http://localhost:5007/create-order", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ amount: Number(amount) })
+      });
+
+      const orderData = await response.json();
+
+      // 2. Razorpay Checkout options
+      var options = {
+        "key": "rzp_test_RGIjVTm6peDV3h", 
+        "amount": amount * 100,  // convert to paise
+        "currency": "INR",
+        "name": "Your Company Name",
+        "description": "Payment",
+        "order_id": orderData.orderId,
+        "handler": function (response) {
+          alert("Payment Success!\nPayment ID: " + response.razorpay_payment_id);
+        },
+        "theme": {
+          "color": "#3399cc"
+        }
+      };
+
+      var rzp = new Razorpay(options);
+      rzp.open();
+    };
+  </script>
+</body>
+</html>

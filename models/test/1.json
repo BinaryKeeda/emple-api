@@ -1,0 +1,2696 @@
+[
+        {
+            "question": "Which component of a computer is primarily responsible for interpreting instructions during execution?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "ALU",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba5f"
+                },
+                {
+                    "text": "CU",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba60"
+                },
+                {
+                    "text": "Cache",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba61"
+                },
+                {
+                    "text": "Registers",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba62"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98ba5e"
+        },
+        {
+            "question": "Which generation of languages introduced “procedures” and structured flow control?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "1st",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba64"
+                },
+                {
+                    "text": "2nd",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba65"
+                },
+                {
+                    "text": "3rd",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba66"
+                },
+                {
+                    "text": "4th",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba67"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98ba63"
+        },
+        {
+            "question": "Which bus carries actual binary data?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Control bus",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba69"
+                },
+                {
+                    "text": "Data bus",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba6a"
+                },
+                {
+                    "text": "Address bus",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba6b"
+                },
+                {
+                    "text": "Logical bus",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba6c"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98ba68"
+        },
+        {
+            "question": "Which programming paradigm evolved to support real-world modeling using objects?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Procedural",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba6e"
+                },
+                {
+                    "text": "Declarative",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba6f"
+                },
+                {
+                    "text": "OOP",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba70"
+                },
+                {
+                    "text": "Functional",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba71"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98ba6d"
+        },
+        {
+            "question": "Which generation introduced symbolic assembly instructions?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "1st",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba73"
+                },
+                {
+                    "text": "2nd",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba74"
+                },
+                {
+                    "text": "3rd",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba75"
+                },
+                {
+                    "text": "4th",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba76"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98ba72"
+        },
+        {
+            "question": "The speed of the CPU depends mainly on:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "RAM capacity",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba78"
+                },
+                {
+                    "text": "Clock frequency",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba79"
+                },
+                {
+                    "text": "Monitor size",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba7a"
+                },
+                {
+                    "text": "Printer speed",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba7b"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98ba77"
+        },
+        {
+            "question": "Which layer of memory hierarchy is the fastest?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Cache",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba7d"
+                },
+                {
+                    "text": "RAM",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba7e"
+                },
+                {
+                    "text": "Registers",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba7f"
+                },
+                {
+                    "text": "SSD",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba80"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98ba7c"
+        },
+        {
+            "question": "Which language introduced the concept of “pointers”?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Java",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba82"
+                },
+                {
+                    "text": "C",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba83"
+                },
+                {
+                    "text": "Python",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba84"
+                },
+                {
+                    "text": "Pascal",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba85"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98ba81"
+        },
+        {
+            "question": "C language was developed by:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Dennis Ritchie",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba87"
+                },
+                {
+                    "text": "James Gosling",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba88"
+                },
+                {
+                    "text": "Guido van Rossum",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba89"
+                },
+                {
+                    "text": "Ken Thompson",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba8a"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98ba86"
+        },
+        {
+            "question": "Which are examples of non-volatile memory?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "RAM",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba8c"
+                },
+                {
+                    "text": "ROM",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba8d"
+                },
+                {
+                    "text": "Flash",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba8e"
+                },
+                {
+                    "text": "Hard disk",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba8f"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98ba8b"
+        },
+        {
+            "question": "Which languages are high-level?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "Assembly",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba91"
+                },
+                {
+                    "text": "C",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba92"
+                },
+                {
+                    "text": "Python",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba93"
+                },
+                {
+                    "text": "Machine language",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba94"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98ba90"
+        },
+        {
+            "question": "Components of CPU include:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "ALU",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba96"
+                },
+                {
+                    "text": "CU",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba97"
+                },
+                {
+                    "text": "Registers",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba98"
+                },
+                {
+                    "text": "SSD",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba99"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98ba95"
+        },
+        {
+            "question": "Which are examples of secondary storage?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "HDD",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba9b"
+                },
+                {
+                    "text": "SSD",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba9c"
+                },
+                {
+                    "text": "Registers",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98ba9d"
+                },
+                {
+                    "text": "CD/DVD",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98ba9e"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98ba9a"
+        },
+        {
+            "question": "Which are machine-independent languages?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "C",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98baa0"
+                },
+                {
+                    "text": "Java",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98baa1"
+                },
+                {
+                    "text": "Assembly",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98baa2"
+                },
+                {
+                    "text": "SQL",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98baa3"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98ba9f"
+        },
+        {
+            "question": "CPU performance depends on:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "Clock speed",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98baa5"
+                },
+                {
+                    "text": "Cache memory",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98baa6"
+                },
+                {
+                    "text": "Instruction set",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98baa7"
+                },
+                {
+                    "text": "Monitor size",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98baa8"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98baa4"
+        },
+        {
+            "question": "Advantages of modular programming:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "Reusability",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98baaa"
+                },
+                {
+                    "text": "Easy debugging",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98baab"
+                },
+                {
+                    "text": "Better readability",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98baac"
+                },
+                {
+                    "text": "Faster hardware execution",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98baad"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98baa9"
+        },
+        {
+            "question": "Input devices include:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "Mouse",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98baaf"
+                },
+                {
+                    "text": "Keyboard",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bab0"
+                },
+                {
+                    "text": "Speakers",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bab1"
+                },
+                {
+                    "text": "Scanner",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bab2"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98baae"
+        },
+        {
+            "question": "Which of them are system software?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "OS",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bab4"
+                },
+                {
+                    "text": "Compiler",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bab5"
+                },
+                {
+                    "text": "Browser",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bab6"
+                },
+                {
+                    "text": "Assembler",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bab7"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bab3"
+        },
+        {
+            "question": "Which languages support OOP?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "C++",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bab9"
+                },
+                {
+                    "text": "Java",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98baba"
+                },
+                {
+                    "text": "C",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98babb"
+                },
+                {
+                    "text": "Python",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98babc"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bab8"
+        },
+        {
+            "question": "How many bytes are in a 64-bit word?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "8",
+            "_id": "692a5ec2aefef2d07e98babd",
+            "options": []
+        },
+        {
+            "question": "What is the ASCII value of the character 'A'?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "65",
+            "_id": "692a5ec2aefef2d07e98babe",
+            "options": []
+        },
+        {
+            "question": "Which of the following correctly matches the generations of programming languages with their examples?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "1 → C, 2 → SQL, 3 → Python, 4 → Assembly",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bac0"
+                },
+                {
+                    "text": "1 → Machine Language, 2 → Assembly, 3 → C, 4 → SQL",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bac1"
+                },
+                {
+                    "text": "1 → Assembly, 2 → Machine Language, 3 → SQL, 4 → Python",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bac2"
+                },
+                {
+                    "text": "1 → SQL, 2 → C, 3 → Assembly, 4 → Python",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bac3"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98babf"
+        },
+        {
+            "question": "Which tool checks a program line-by-line during execution?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Editor",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bac5"
+                },
+                {
+                    "text": "Compiler",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bac6"
+                },
+                {
+                    "text": "Debugger",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bac7"
+                },
+                {
+                    "text": "Interpreter",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bac8"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bac4"
+        },
+        {
+            "question": "Which translator converts high-level code to machine code in one go?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Interpreter",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98baca"
+                },
+                {
+                    "text": "Compiler",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bacb"
+                },
+                {
+                    "text": "Assembler",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bacc"
+                },
+                {
+                    "text": "Loader",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bacd"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bac9"
+        },
+        {
+            "question": "Flowcharts use which symbol for decision-making?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Rectangle",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bacf"
+                },
+                {
+                    "text": "Diamond",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bad0"
+                },
+                {
+                    "text": "Oval",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bad1"
+                },
+                {
+                    "text": "Parallelogram",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bad2"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bace"
+        },
+        {
+            "question": "Which component merges multiple object files?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Loader",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bad4"
+                },
+                {
+                    "text": "Linker",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bad5"
+                },
+                {
+                    "text": "Compiler",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bad6"
+                },
+                {
+                    "text": "Debugger",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bad7"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bad3"
+        },
+        {
+            "question": "In a flowchart, input/output is shown using:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Rectangle",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bad9"
+                },
+                {
+                    "text": "Diamond",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bada"
+                },
+                {
+                    "text": "Oval",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98badb"
+                },
+                {
+                    "text": "Parallelogram",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98badc"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bad8"
+        },
+        {
+            "question": "Pseudocode is mainly used to:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Execute code",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bade"
+                },
+                {
+                    "text": "Design logic",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98badf"
+                },
+                {
+                    "text": "Create UI",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bae0"
+                },
+                {
+                    "text": "Handle storage",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bae1"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98badd"
+        },
+        {
+            "question": "Compilation errors occur during:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Runtime",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bae3"
+                },
+                {
+                    "text": "Translation",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bae4"
+                },
+                {
+                    "text": "Execution",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bae5"
+                },
+                {
+                    "text": "Debugging",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bae6"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bae2"
+        },
+        {
+            "question": "The start/stop symbol in a flowchart is:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Oval",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bae8"
+                },
+                {
+                    "text": "Circle",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bae9"
+                },
+                {
+                    "text": "Diamond",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98baea"
+                },
+                {
+                    "text": "Hexagon",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98baeb"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bae7"
+        },
+        {
+            "question": "Debugging mainly detects:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Input errors",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98baed"
+                },
+                {
+                    "text": "Logic errors",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98baee"
+                },
+                {
+                    "text": "Hardware issues",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98baef"
+                },
+                {
+                    "text": "Syntax rules only",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98baf0"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98baec"
+        },
+        {
+            "question": "Editors like VS Code belong to:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Translators",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98baf2"
+                },
+                {
+                    "text": "Debugging tools",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98baf3"
+                },
+                {
+                    "text": "IDEs",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98baf4"
+                },
+                {
+                    "text": "Compilers",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98baf5"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98baf1"
+        },
+        {
+            "question": "Which error occurs during execution?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Syntax error",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98baf7"
+                },
+                {
+                    "text": "Logical error",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98baf8"
+                },
+                {
+                    "text": "Runtime error",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98baf9"
+                },
+                {
+                    "text": "Typo",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bafa"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98baf6"
+        },
+        {
+            "question": "A loop in a flowchart is represented using:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Back arrows",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bafc"
+                },
+                {
+                    "text": "Diamonds",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bafd"
+                },
+                {
+                    "text": "Start symbol",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bafe"
+                },
+                {
+                    "text": "Rectangle",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98baff"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bafb"
+        },
+        {
+            "question": "High-level code → Object code is done by:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Debugger",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb01"
+                },
+                {
+                    "text": "Compiler",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb02"
+                },
+                {
+                    "text": "Loader",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb03"
+                },
+                {
+                    "text": "Linker",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb04"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb00"
+        },
+        {
+            "question": "Valid flowchart components:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "Rectangle",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb06"
+                },
+                {
+                    "text": "Oval",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb07"
+                },
+                {
+                    "text": "Diamond",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb08"
+                },
+                {
+                    "text": "Parallelogram",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb09"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb05"
+        },
+        {
+            "question": "Characteristics of algorithms:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "Finite steps",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb0b"
+                },
+                {
+                    "text": "Unambiguous",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb0c"
+                },
+                {
+                    "text": "Language-independent",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb0d"
+                },
+                {
+                    "text": "Must be graphical",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb0e"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb0a"
+        },
+        {
+            "question": "Parts of an IDE:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "Editor",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb10"
+                },
+                {
+                    "text": "Compiler",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb11"
+                },
+                {
+                    "text": "Debugger",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb12"
+                },
+                {
+                    "text": "Storage device",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb13"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb0f"
+        },
+        {
+            "question": "Types of program errors:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "Syntax",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb15"
+                },
+                {
+                    "text": "Logical",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb16"
+                },
+                {
+                    "text": "Runtime",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb17"
+                },
+                {
+                    "text": "Hardware",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb18"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb14"
+        },
+        {
+            "question": "Program execution steps include:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "Editing",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb1a"
+                },
+                {
+                    "text": "Compiling",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb1b"
+                },
+                {
+                    "text": "Linking",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb1c"
+                },
+                {
+                    "text": "Restarting",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb1d"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb19"
+        },
+        {
+            "question": "Interpreter features:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "Executes line-by-line",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb1f"
+                },
+                {
+                    "text": "Faster than compiler",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb20"
+                },
+                {
+                    "text": "Good for testing",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb21"
+                },
+                {
+                    "text": "No object file generated",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb22"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb1e"
+        },
+        {
+            "question": "How many symbols are fundamental in flowcharts?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "4",
+            "_id": "692a5ec2aefef2d07e98bb23",
+            "options": []
+        },
+        {
+            "question": "ASCII value of digit '0'.",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "48",
+            "_id": "692a5ec2aefef2d07e98bb24",
+            "options": []
+        },
+        {
+            "question": "What will be the output?\nSET A = 5\nSET B = 3\nSET C = A * 2 - B\nPRINT C",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "7",
+            "_id": "692a5ec2aefef2d07e98bb25",
+            "options": []
+        },
+        {
+            "question": "What will be the output?\n1. Start\n2. Sum = 0\n3. For i = 1 to 5\n4.     Sum = Sum + i\n5. End For\n6. Print Sum",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "15",
+            "_id": "692a5ec2aefef2d07e98bb26",
+            "options": []
+        },
+        {
+            "question": "What will be the output?\nX = 10\nIF X > 5 THEN\nIF X < 20 THEN\nPRINT 1\nELSE\nPRINT 2\nENDIF\nELSE\nPRINT 3\nENDIF",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "1",
+            "_id": "692a5ec2aefef2d07e98bb27",
+            "options": []
+        },
+        {
+            "question": "START\nN = 4\nWHILE N > 0\nPRINT N\nN = N - 1\nEND WHILE\nSTOP",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "4321",
+            "_id": "692a5ec2aefef2d07e98bb28",
+            "options": []
+        },
+        {
+            "question": "What will be the output?\nX = 17\nIF X % 2 == 0 THEN\nPRINT 1\nELSE\nPRINT 0\nENDIF",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "0",
+            "_id": "692a5ec2aefef2d07e98bb29",
+            "options": []
+        },
+        {
+            "question": "What will be the output?\nStart\nSum = 0\nFor i = 1 to 6\nIf i % 2 == 0\nSum = Sum + i\nEndIf\nEndFor\nPrint Sum\nStop",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "12",
+            "_id": "692a5ec2aefef2d07e98bb2a",
+            "options": []
+        },
+        {
+            "question": "What will be the output?\nText = \"CAT\"\nLength = 3\nFor i = 1 to Length\nPRINT i\nEndFor",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "123",
+            "_id": "692a5ec2aefef2d07e98bb2b",
+            "options": []
+        },
+        {
+            "question": "What will be the output?\nA = 3\nB = 2\nIF A > B THEN\nB = B + 2\nELSE\nA = A + 2\nENDIF\nPRINT A\nPRINT B",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "34",
+            "_id": "692a5ec2aefef2d07e98bb2c",
+            "options": []
+        },
+        {
+            "question": "What will be the output?\nStart\nCount = 0\nFor i = 1 to 3\nFor j = 1 to 3\nCount = Count + 1\nEndFor\nEndFor\nPrint Count\nStop",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "9",
+            "_id": "692a5ec2aefef2d07e98bb2d",
+            "options": []
+        },
+        {
+            "question": "What will be the output?\nI = 1\nWHILE I <= 5\nIF I == 3 THEN\nBREAK\nENDIF\nPRINT I\nI = I + 1\nEND WHILE",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "12",
+            "_id": "692a5ec2aefef2d07e98bb2e",
+            "options": []
+        },
+        {
+            "question": "nan",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "nan",
+            "_id": "692a5ec2aefef2d07e98bb2f",
+            "options": []
+        },
+        {
+            "question": "UNIT 2",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "nan",
+            "_id": "692a5ec2aefef2d07e98bb30",
+            "options": []
+        },
+        {
+            "question": "Which of the following is a valid fundamental data type in C?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "real",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb32"
+                },
+                {
+                    "text": "float",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb33"
+                },
+                {
+                    "text": "number",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb34"
+                },
+                {
+                    "text": "string",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb35"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb31"
+        },
+        {
+            "question": "int a = 5.9;\nprintf(\"%d\", a);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "5",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb37"
+                },
+                {
+                    "text": "6",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb38"
+                },
+                {
+                    "text": "Garbage",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb39"
+                },
+                {
+                    "text": "5.9",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb3a"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb36"
+        },
+        {
+            "question": "Which keyword is used to declare a global variable in another file?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "extern",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb3c"
+                },
+                {
+                    "text": "global",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb3d"
+                },
+                {
+                    "text": "static",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb3e"
+                },
+                {
+                    "text": "auto",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb3f"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb3b"
+        },
+        {
+            "question": "Which header is needed for pow( )?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "stdio.h",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb41"
+                },
+                {
+                    "text": "math.h",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb42"
+                },
+                {
+                    "text": "stdlib.h",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb43"
+                },
+                {
+                    "text": "string.h",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb44"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb40"
+        },
+        {
+            "question": "Which variable has the shortest lifetime?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "static",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb46"
+                },
+                {
+                    "text": "extern",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb47"
+                },
+                {
+                    "text": "auto",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb48"
+                },
+                {
+                    "text": "global",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb49"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb45"
+        },
+        {
+            "question": "Which is NOT a keyword?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "goto",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb4b"
+                },
+                {
+                    "text": "return",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb4c"
+                },
+                {
+                    "text": "include",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb4d"
+                },
+                {
+                    "text": "float",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb4e"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb4a"
+        },
+        {
+            "question": "char c = 'A';\nprintf(\"%c\", c + 2);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "A",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb50"
+                },
+                {
+                    "text": "B",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb51"
+                },
+                {
+                    "text": "C",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb52"
+                },
+                {
+                    "text": "D",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb53"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb4f"
+        },
+        {
+            "question": "Header for strlen()?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "stdlib.h",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb55"
+                },
+                {
+                    "text": "string.h",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb56"
+                },
+                {
+                    "text": "stdio.h",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb57"
+                },
+                {
+                    "text": "memory.h",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb58"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb54"
+        },
+        {
+            "question": "Which gives the size of a variable?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "measure",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb5a"
+                },
+                {
+                    "text": "size",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb5b"
+                },
+                {
+                    "text": "sizeof",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb5c"
+                },
+                {
+                    "text": "length",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb5d"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb59"
+        },
+        {
+            "question": "Local variables stored in:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Heap",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb5f"
+                },
+                {
+                    "text": "Stack",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb60"
+                },
+                {
+                    "text": "Register",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb61"
+                },
+                {
+                    "text": "ROM",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb62"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb5e"
+        },
+        {
+            "question": "A header file contains:",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "Source code",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb64"
+                },
+                {
+                    "text": "Declarations",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb65"
+                },
+                {
+                    "text": "Object code",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb66"
+                },
+                {
+                    "text": "Machine code",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb67"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb63"
+        },
+        {
+            "question": "Which is user-defined?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "int",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb69"
+                },
+                {
+                    "text": "union",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb6a"
+                },
+                {
+                    "text": "float",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb6b"
+                },
+                {
+                    "text": "double",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb6c"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb68"
+        },
+        {
+            "question": "Which data type has the highest precision?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "float",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb6e"
+                },
+                {
+                    "text": "double",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb6f"
+                },
+                {
+                    "text": "long double",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb70"
+                },
+                {
+                    "text": "long long",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb71"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb6d"
+        },
+        {
+            "question": "What is the output?\nint x = 5;\nprintf(\"%d\", sizeof(++x));",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "4",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb73"
+                },
+                {
+                    "text": "5",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb74"
+                },
+                {
+                    "text": "Undefined",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb75"
+                },
+                {
+                    "text": "Depends on compiler",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb76"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb72"
+        },
+        {
+            "question": "Which header file is required for printf()?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "stdlib.h",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb78"
+                },
+                {
+                    "text": "stdio.h",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb79"
+                },
+                {
+                    "text": "string.h",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb7a"
+                },
+                {
+                    "text": "ctype.h",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb7b"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb77"
+        },
+        {
+            "question": "Which is valid?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "int 2num;",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb7d"
+                },
+                {
+                    "text": "int num_2;",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb7e"
+                },
+                {
+                    "text": "int #value;",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb7f"
+                },
+                {
+                    "text": "int float;",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb80"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb7c"
+        },
+        {
+            "question": "Find the output:\nint a = 3, b = 4;\nprintf(\"%d\", a+++b);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "7",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb82"
+                },
+                {
+                    "text": "8",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb83"
+                },
+                {
+                    "text": "3",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb84"
+                },
+                {
+                    "text": "Compilation error",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb85"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb81"
+        },
+        {
+            "question": "Output?\nint a=10,b=20;\nprintf(\"%d\", a<b && b<15);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "1",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb87"
+                },
+                {
+                    "text": "0",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb88"
+                },
+                {
+                    "text": "Depends on compiler",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb89"
+                },
+                {
+                    "text": "Undefined",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb8a"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb86"
+        },
+        {
+            "question": "Which operator has right-to-left associativity?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "*",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb8c"
+                },
+                {
+                    "text": "||",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb8d"
+                },
+                {
+                    "text": "(postfix) ++",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb8e"
+                },
+                {
+                    "text": "(equals to) =",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb8f"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb8b"
+        },
+        {
+            "question": "Which header defines malloc()?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "stdlib.h",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb91"
+                },
+                {
+                    "text": "malloc.h",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb92"
+                },
+                {
+                    "text": "memory.h",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb93"
+                },
+                {
+                    "text": "stdio.h",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb94"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb90"
+        },
+        {
+            "question": "What is sizeof(char)?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "8",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb96"
+                },
+                {
+                    "text": "4",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb97"
+                },
+                {
+                    "text": "1",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb98"
+                },
+                {
+                    "text": "Depends on system",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb99"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb95"
+        },
+        {
+            "question": "Output?\nint a=1,b=2,c=3;\nprintf(\"%d\", a<b<c);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "0",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb9b"
+                },
+                {
+                    "text": "1",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bb9c"
+                },
+                {
+                    "text": "2",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb9d"
+                },
+                {
+                    "text": "Compiler error",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bb9e"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb9a"
+        },
+        {
+            "question": "What is the value of:\nint x = 5;\nx = x == 5 ? x++ : ++x;\nprintf(\"%d\", x);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "5",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bba0"
+                },
+                {
+                    "text": "6",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bba1"
+                },
+                {
+                    "text": "7",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bba2"
+                },
+                {
+                    "text": "Undefined",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bba3"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bb9f"
+        },
+        {
+            "question": "Which has highest precedence?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "!",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bba5"
+                },
+                {
+                    "text": "<",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bba6"
+                },
+                {
+                    "text": "(Plus) +",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bba7"
+                },
+                {
+                    "text": "&&",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bba8"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bba4"
+        },
+        {
+            "question": "Bitwise AND of 14 & 9?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "8",
+            "_id": "692a5ec2aefef2d07e98bba9",
+            "options": []
+        },
+        {
+            "question": "Output?\nint a=5;\nprintf(\"%d\", a+++++a);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "10",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbab"
+                },
+                {
+                    "text": "11",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbac"
+                },
+                {
+                    "text": "12",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbad"
+                },
+                {
+                    "text": "Compilation error",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbae"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bbaa"
+        },
+        {
+            "question": "Output?\nint a=10;\nprintf(\"%d\", !!a);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "0",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbb0"
+                },
+                {
+                    "text": "1",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbb1"
+                },
+                {
+                    "text": "10",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbb2"
+                },
+                {
+                    "text": "undefined",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbb3"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bbaf"
+        },
+        {
+            "question": "Which operators are unary?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "!",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbb5"
+                },
+                {
+                    "text": "(increment) ++",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbb6"
+                },
+                {
+                    "text": "sizeof",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbb7"
+                },
+                {
+                    "text": "(Add) +",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbb8"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bbb4"
+        },
+        {
+            "question": "Which keywords define user-defined types?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "typedef",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbba"
+                },
+                {
+                    "text": "struct",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbbb"
+                },
+                {
+                    "text": "union",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbbc"
+                },
+                {
+                    "text": "char",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbbd"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bbb9"
+        },
+        {
+            "question": "Which are valid bitwise operators?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "^",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbbf"
+                },
+                {
+                    "text": "&&",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbc0"
+                },
+                {
+                    "text": "|",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbc1"
+                },
+                {
+                    "text": "<<",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbc2"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bbbe"
+        },
+        {
+            "question": "Given:\nint a=5;\nWhich modify a?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "a+=2",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbc4"
+                },
+                {
+                    "text": "a=++a",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbc5"
+                },
+                {
+                    "text": "a==5",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbc6"
+                },
+                {
+                    "text": "a--",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbc7"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bbc3"
+        },
+        {
+            "question": "Which statements about local variables are true?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "Stored on stack",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbc9"
+                },
+                {
+                    "text": "Default value = 0",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbca"
+                },
+                {
+                    "text": "Must be initialized",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbcb"
+                },
+                {
+                    "text": "Have block scope",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbcc"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bbc8"
+        },
+        {
+            "question": "Which are valid identifiers?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "_value",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbce"
+                },
+                {
+                    "text": "int",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbcf"
+                },
+                {
+                    "text": "value2",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbd0"
+                },
+                {
+                    "text": "2value",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbd1"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bbcd"
+        },
+        {
+            "question": "Which are assignment operators?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "A. +=",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbd3"
+                },
+                {
+                    "text": "B. ==",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbd4"
+                },
+                {
+                    "text": "C. *=",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbd5"
+                },
+                {
+                    "text": "D. &=",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbd6"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bbd2"
+        },
+        {
+            "question": "Value?\nint a=5,b=2;\nprintf(\"%d\", a/b + a%b);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "3",
+            "_id": "692a5ec2aefef2d07e98bbd7",
+            "options": []
+        },
+        {
+            "question": "Evaluate:\nint x=7;\nprintf(\"%d\", x>>1);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "3",
+            "_id": "692a5ec2aefef2d07e98bbd8",
+            "options": []
+        },
+        {
+            "question": "Result of:\nprintf(\"%d\", 12 & 5);\nBits: 12=1100, 5=0101",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "4",
+            "_id": "692a5ec2aefef2d07e98bbd9",
+            "options": []
+        },
+        {
+            "question": "Which produce a boolean-like output (0/1)?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "<",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbdb"
+                },
+                {
+                    "text": "&&",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbdc"
+                },
+                {
+                    "text": "||",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbdd"
+                },
+                {
+                    "text": "&",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbde"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bbda"
+        },
+        {
+            "question": "Output:\nprintf(\"%d\", 15^7);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "8",
+            "_id": "692a5ec2aefef2d07e98bbdf",
+            "options": []
+        },
+        {
+            "question": "Output:\nint a=10;\nprintf(\"%d\", --a + a++);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "18",
+            "_id": "692a5ec2aefef2d07e98bbe0",
+            "options": []
+        },
+        {
+            "question": "Result:\nprintf(\"%d\", !5 + !!0);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "1",
+            "_id": "692a5ec2aefef2d07e98bbe1",
+            "options": []
+        },
+        {
+            "question": "Evaluate:\nprintf(\"%d\", 3 + 4 * 2 - 1);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "10",
+            "_id": "692a5ec2aefef2d07e98bbe2",
+            "options": []
+        },
+        {
+            "question": "Output:\nint x=3;\nprintf(\"%d\", x+++x);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "7",
+            "_id": "692a5ec2aefef2d07e98bbe3",
+            "options": []
+        },
+        {
+            "question": "Result:\nprintf(\"%d\", 20>>2);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "5",
+            "_id": "692a5ec2aefef2d07e98bbe4",
+            "options": []
+        },
+        {
+            "question": "Value:\nprintf(\"%d\", 6 | 3);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "7",
+            "_id": "692a5ec2aefef2d07e98bbe5",
+            "options": []
+        },
+        {
+            "question": "Compute:\nprintf(\"%d\", 5 && 0 || 3);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "1",
+            "_id": "692a5ec2aefef2d07e98bbe6",
+            "options": []
+        },
+        {
+            "question": "Value:\nint a=2,b=3;\nprintf(\"%d\", a<<b);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "16",
+            "_id": "692a5ec2aefef2d07e98bbe7",
+            "options": []
+        },
+        {
+            "question": "What is the output?\nint i=0;\nswitch(i)\n{\ncase 0: printf(\"A\");\ncase 1: printf(\"B\");\ndefault: printf(\"C\");\n}",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "A",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbe9"
+                },
+                {
+                    "text": "AB",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbea"
+                },
+                {
+                    "text": "ABC",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbeb"
+                },
+                {
+                    "text": "Compilation error",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbec"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bbe8"
+        },
+        {
+            "question": "Which keyword skips the remaining statements of the loop body and starts the next iteration?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "break",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbee"
+                },
+                {
+                    "text": "continue",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbef"
+                },
+                {
+                    "text": "goto",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbf0"
+                },
+                {
+                    "text": "return",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbf1"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bbed"
+        },
+        {
+            "question": "Output?\nint i=3;\nwhile(i--)\nif(i==1)\nbreak;\nprintf(\"%d\", i);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "3",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbf3"
+                },
+                {
+                    "text": "2",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbf4"
+                },
+                {
+                    "text": "1",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbf5"
+                },
+                {
+                    "text": "0",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbf6"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bbf2"
+        },
+        {
+            "question": "Output?\nint i=0;\ndo {\ni++;\ncontinue;\ni+=2;\n} while(i<3);\nprintf(\"%d\", i);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "3",
+            "_id": "692a5ec2aefef2d07e98bbf7",
+            "options": []
+        },
+        {
+            "question": "Output?\nint x=1;\nif(x-- && ++x)\nprintf(\"T\");\nelse\nprintf(\"F\");",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "T",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bbf9"
+                },
+                {
+                    "text": "F",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbfa"
+                },
+                {
+                    "text": "Undefined",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbfb"
+                },
+                {
+                    "text": "Compilation Error",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbfc"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bbf8"
+        },
+        {
+            "question": "Output?\nfor(int i=0; i<3; i++)\n{\nstatic int x=0;\nx++;\n}\nprintf(\"%d\", x);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "3",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbfe"
+                },
+                {
+                    "text": "0",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bbff"
+                },
+                {
+                    "text": "Compilation Error",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bc00"
+                },
+                {
+                    "text": "1",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bc01"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bbfd"
+        },
+        {
+            "question": "Output?\nint i=0;\nwhile(i < 3)\ni++;\nprintf(\"%d\", i);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "3",
+            "_id": "692a5ec2aefef2d07e98bc02",
+            "options": []
+        },
+        {
+            "question": "Which loops guarantee execution at least once?",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MCQ",
+            "options": [
+                {
+                    "text": "for",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bc04"
+                },
+                {
+                    "text": "while",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bc05"
+                },
+                {
+                    "text": "do-while",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bc06"
+                },
+                {
+                    "text": "None",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bc07"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bc03"
+        },
+        {
+            "question": "Which are infinite loops?\nII. while(1)\nIII. do {} while(1)\nIV. while(0)",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "MSQ",
+            "options": [
+                {
+                    "text": "for(;;)",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bc09"
+                },
+                {
+                    "text": "I",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bc0a"
+                },
+                {
+                    "text": "II",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bc0b"
+                },
+                {
+                    "text": "III",
+                    "isCorrect": true,
+                    "_id": "692a5ec2aefef2d07e98bc0c"
+                },
+                {
+                    "text": "IV",
+                    "isCorrect": false,
+                    "_id": "692a5ec2aefef2d07e98bc0d"
+                }
+            ],
+            "_id": "692a5ec2aefef2d07e98bc08"
+        },
+        {
+            "question": "Output:\nint i=1;\nif(i++ == 1)\nif(++i == 3)\ni=i+1;\nprintf(\"%d\", i);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "4",
+            "_id": "692a5ec2aefef2d07e98bc0e",
+            "options": []
+        },
+        {
+            "question": "Value printed:\nint i=0;\nwhile(i++ < 5);\nprintf(\"%d\", i);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "6",
+            "_id": "692a5ec2aefef2d07e98bc0f",
+            "options": []
+        },
+        {
+            "question": "Output:\nint x=5;\nswitch(x+1){\ncase 5: x++; break;\ncase 6: x+=2;\ndefault: x+=3;\n}\nprintf(\"%d\", x);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "10",
+            "_id": "692a5ec2aefef2d07e98bc10",
+            "options": []
+        },
+        {
+            "question": "Value printed:\nint i=0;\nfor(; i<5; i++);\nprintf(\"%d\", i);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "5",
+            "_id": "692a5ec2aefef2d07e98bc11",
+            "options": []
+        },
+        {
+            "question": "Output:\nint i=1;\ndo{\ni+=2;\n} while(i < 5);\nprintf(\"%d\", i);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "5",
+            "_id": "692a5ec2aefef2d07e98bc12",
+            "options": []
+        },
+        {
+            "question": "Number of iterations executed:\nint i=0;\nwhile(++i < 5);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "4",
+            "_id": "692a5ec2aefef2d07e98bc13",
+            "options": []
+        },
+        {
+            "question": "Output:\nint i=0;\nloop: if(i<3){\ni++;\ngoto loop;\n}\nprintf(\"%d\", i);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "3",
+            "_id": "692a5ec2aefef2d07e98bc14",
+            "options": []
+        },
+        {
+            "question": "Output:\nint i=0;\nfor(; ; i++){\nif(i==3) break;\n}\nprintf(\"%d\", i);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "3",
+            "_id": "692a5ec2aefef2d07e98bc15",
+            "options": []
+        },
+        {
+            "question": "Output:\nint i=1;\nif(i-- && i--)\ni+=3;\nprintf(\"%d\", i);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "1",
+            "_id": "692a5ec2aefef2d07e98bc16",
+            "options": []
+        },
+        {
+            "question": "Output:\nint i=0,j=0;\nfor(; i<3; i++)\n{\nif(i==1) continue;\nj+=i;\n}\nprintf(\"%d\", j);",
+            "marks": 1,
+            "negative": 0.25,
+            "category": "Text",
+            "answer": "2",
+            "_id": "692a5ec2aefef2d07e98bc17",
+            "options": []
+        }
+    ]

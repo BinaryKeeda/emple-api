@@ -1,0 +1,7 @@
+Flask==3.0.3
+flask-cors==5.0.0
+spacy==3.7.4
+skillNer==1.0.3
+PyMuPDF==1.24.10
+gunicorn==23.0.0
+ipython==8.26.0   # added to fix ModuleNotFoundError
